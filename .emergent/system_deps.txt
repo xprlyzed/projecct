@@ -1,3 +1,4 @@
+cron=3.0pl1-162
 php8.2-bcmath=8.2.33-1~deb12u1
 php8.2-cli=8.2.33-1~deb12u1
 php8.2-curl=8.2.33-1~deb12u1
